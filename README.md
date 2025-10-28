@@ -1,7 +1,7 @@
 
 > ⚠️ **Safety & Ethics Notice**
 > This repository contains code that demonstrates network/socket programming and file/resource handling. It may include examples that resemble remote-control logic. **Do not** deploy or use any code that gives remote control of systems on machines you do not own or systems for which you do not have explicit written authorization. Unauthorized use is illegal and unethical. Use the instructions below only in isolated lab environments (local VMs, offline networks, or test benches) and only for educational purposes.
-
+<img width="720" height="720" alt="Image" src="https://github.com/user-attachments/assets/0a19fd1f-d280-4886-8326-a3036d9db745" />
 ## Overview
 This project demonstrates:
 - resource handling for bundling files with PyInstaller (images, PDFs),
